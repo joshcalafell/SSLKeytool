@@ -23,7 +23,7 @@ Usage
 -----
 <ul>
 <li>To make it executable: <code>chmod +x SSLKeyTool.sh</code></li>
-<li>Then, if inside containing foler, run by <code>./SSLKeyTTool.sh</code>, otherwise if outside folder, <code>'path'/SSLKeyTools.sh</code></li>
+<li>To run, if inside containing foler, run by <code>./SSLKeyTTool.sh</code>, otherwise if outside folder, <code>'path'/SSLKeyTools.sh</code></li>
 </ul>
 
 Screenshot
