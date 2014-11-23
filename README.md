@@ -32,7 +32,7 @@ Screenshot
 
 Copyright
 ---------
-<strong> &#169; 2014 http:www.rabbitfighter.net</strong>
+<strong> &#169; 2014 www.rabbitfighter.net</strong>
 
 
 
