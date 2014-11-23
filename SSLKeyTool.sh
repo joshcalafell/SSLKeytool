@@ -92,7 +92,7 @@ do
 			sudo keytool -import -file $username.cer -alias "${username}" -keystore "${path}"
 		;;
 
-		# Quit
+	# Quit
         "Quit")
             break
             ;;
