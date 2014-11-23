@@ -25,7 +25,7 @@ To make it executable: <code>chmod +x SSLKeyTool.sh</code> The run by <code>./SS
 
 Screenshot
 -----------
-[!Picture](http://rabbitfighter.net/wp-content/uploads/2014/11/SSLKeyTools.png)
+![Picture](http://rabbitfighter.net/wp-content/uploads/2014/11/SSLKeyTools.png)
 
 Copyright
 ---------
