@@ -21,7 +21,10 @@ This was written for my final project in CS3750-Computer/Network Secutiry class 
 
 Usage
 -----
-To make it executable: <code>chmod +x SSLKeyTool.sh</code> The run by <code>./SSLKeyTTool.sh</code> if inside the containing directory, otherwise if outside folder, <code>'path'/SSLKeyTools.sh</code>
+<ul>
+<li>To make it executable: <code>chmod +x SSLKeyTool.sh</code></li>
+<li>Then, if inside containing foler, run by <code>./SSLKeyTTool.sh</code>, otherwise if outside folder, <code>'path'/SSLKeyTools.sh</code></li>
+</ul>
 
 Screenshot
 -----------
