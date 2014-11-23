@@ -17,7 +17,7 @@ Joshua Michael Waggoner (rabbitfighter81@gmail.com)</li>
 
 Purpose
 -------
-This was written for my final project in CS3750-Computer/Network Secutiry class at MSU Denver
+This was written as a helper for my final project in CS3750-Computer/Network Secutiry class at MSU Denver. This program helps with the creation of a keystore, trustore, and certificates ttto go along with them, as well as allowing to examine the keystore or truststore.
 
 Usage
 -----
