@@ -13,7 +13,7 @@ Navigation
 
 Author
 ------
-Joshua Michael Waggoner (rabbitfighter81@gmail.com)</li>
+Joshua Michael Waggoner (rabbitfighter@cryptolab.net)</li>
 
 Purpose
 -------
